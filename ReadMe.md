@@ -4,7 +4,7 @@
 
 ## Description:
 
-> This repo is for learning the basics of JavaScript and is now ready to use the power of JavaScript to build some apps using DOM Manipulation.
+> This repo is for those who have learned the basics of JavaScript and are now ready to use the power of JavaScript further to build some apps using DOM Manipulation.
 
 **This repo is divided into three parts:**
 
