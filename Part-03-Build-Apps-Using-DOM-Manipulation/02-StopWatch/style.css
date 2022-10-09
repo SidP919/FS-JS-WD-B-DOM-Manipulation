@@ -1,0 +1,52 @@
+body{
+    background-color: #ff5454;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    padding: 6%;
+    background-color: #00ffe5;
+    border-radius: 10%;
+}
+
+#title{
+    font-size: xxx-large;
+    color: #ff5454;
+    text-decoration: underline;
+}
+
+#timer-div{
+    display: flex;
+    flex-direction: row;
+    font-size: xx-large;
+    color: #ff5454;
+    width: 352px;
+    justify-content: center;
+}
+
+#m-sec{
+    width: 96px;
+}
+
+#btn-div{
+    display: flex;
+    font-size: small;
+    color: #00ffe5;
+}
+
+.circle-btn{
+    background-color: #ff5454;
+    margin: 20px;
+    padding: 16px;
+    min-width: 88px;
+    border-radius: 48%;
+    cursor: pointer;
+    text-align: center;
+}
