@@ -39,9 +39,9 @@
 
 ## Part-03-Build-Apps-Using-DOM-Manipulation
 ![Part-03](./Part-03-Build-Apps-Using-DOM-Manipulation/thumbnail.png)
-- In this part, we won't get any resources or partially-completed code for the apps. We will only have a problem statement for each app to be build and we will need to build them from scratch. I have decided to create separate repositories for these apps.
+- In this part, we won't get any resources or partially-completed code for the apps. We will only have a problem statement for each app to be build and we will need to build them from scratch.
 
-- For a complete list and links of apps that we have build so far and the problem statements of all the apps to be build, please check [here](https://github.com/SidP919/FS-JS-WD-B-DOM-Manipulation/tree/Main/Part-03-Build-Apps-Using-DOM-Manipulation)
+- For a complete list, code and links of apps that we have build so far and the problem statements of all the apps to be build, please check [here](https://github.com/SidP919/FS-JS-WD-B-DOM-Manipulation/tree/Main/Part-03-Build-Apps-Using-DOM-Manipulation)
 
 #
 
@@ -50,7 +50,7 @@
 
 - Part-02 - 21 hrs
 
-- Part-03 - To be updated
+- Part-03 - 8 hrs(To Be Continued)
 
 #
 
