@@ -50,11 +50,7 @@ function incMilliSec(){
             msecElement.innerText = "1000";
             incSec();
         }else if(currMsec == 0){
-            msecElement.innerText = "000";
-            secElement.innerText = "00";
-            minElement.innerText = "00";
-            hourElement.innerText = "00";
-            clearInterval(interval);
+            resetTimer();
         }
     }
 }
