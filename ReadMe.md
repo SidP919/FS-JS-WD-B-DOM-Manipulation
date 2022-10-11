@@ -41,6 +41,8 @@
 ![Part-03](./Part-03-Build-Apps-Using-DOM-Manipulation/thumbnail.png)
 - In this part, we won't get any resources or partially-completed code for the apps. We will only have a problem statement for each app to be build and we will need to build them from scratch.
 
+- You can see the apps built so far in action at this live link - [https://dom-apps.netlify.app](https://dom-apps.netlify.app)
+
 - For a complete list, code and links of apps that we have build so far and the problem statements of all the apps to be build, please check [here](https://github.com/SidP919/FS-JS-WD-B-DOM-Manipulation/tree/Main/Part-03-Build-Apps-Using-DOM-Manipulation)
 
 #
