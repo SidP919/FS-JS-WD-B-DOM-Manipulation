@@ -4,7 +4,7 @@
 > Build a simple calculator app which performs simple arithmetic operations such as addition, subtraction, multiplication and division.
 2. **Stopwatch App:** **[Live Link](https://dom-apps.netlify.app/02-stopwatch/)**
 > Build a Stopwatch app which starts by pressing the button start and stop by stop button also there is a reset button.
-3. **Countdown App:**
+3. **Countdown App:** **[Live Link](https://dom-apps.netlify.app/03-Countdown/)**
 > Build a countdown app which takes the start position from the user and on reaching zero, the countdown stops.
 4. **Word Count App:**
 > Build a word count app which only calculates the number of characters given by the user.
