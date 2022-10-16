@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MusicPlayer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="heading">
+        <h1 id="title">Music Player</h1>
+        <h3>Playlist</h3>
+    </div>
+    <section>
+        <div>
+            <ul id="list"></ul>
+        </div>
+    </section>
+    <section class="playing-sec">
+        <div class="now-playing-div">
+            <div>
+                <img id="song-img" src="https://dns2.vippendu.com/thumbmed/1148058.jpg" alt="song-img">
+            </div>
+            <div>
+                <h3>Now Playing...</h3>
+                <h4 id="song-name">Song: Madari</h4>
+                <h4 id="song-singer">Sung by: Vishal Dadlani & Sonu Kakkar</h4>
+            </div>
+        </div>
+        <div>
+            <div id="btn-div">
+                <div class="circle-btn" type="button" id="prev"><h1>&LessLess;</h1></div>
+                <audio
+                    id="audio"
+                    controls
+                    src="https://dns4.vippendu.com/download/128k-nqmb/Madari.mp3">
+                        <a href="https://dns4.vippendu.com/download/128k-nqmb/Madari.mp3">
+                            Download audio
+                        </a>
+                </audio>
+                <div class="circle-btn" type="button" id="next"><h1>&GreaterGreater;</h1></div>
+            </div>
+        </div>
+    </section>
+    <script src="./script.js"></script>
+</body>
+</html>

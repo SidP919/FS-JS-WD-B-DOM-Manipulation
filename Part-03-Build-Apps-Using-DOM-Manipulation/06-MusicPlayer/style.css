@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    /* height: 100vh; */
+    background-color: #ff5454;
+    padding: 16px;
+    padding-top: 168px;
+}
+
+#title{
+    font-size: xxx-large;
+    color: #fff;
+    text-decoration: underline;
+    padding-bottom: 16px;
+}
+
+div{
+    text-align: center;
+}
+
+#list{
+    min-height: 76vh;
+    padding-top: 16px;
+}
+
+h3, #list > li{
+    font-size: x-large;
+    color: #fff;
+    padding-bottom: 8px;
+    list-style-type: none;
+    text-decoration: underline;
+}
+
+.heading{
+    position: fixed;
+    top: 0;
+    padding-top: 72px;
+    min-width: 448px;
+    border-bottom: 4px #fff solid;
+    background-color: #ff5454;
+}
+
+section{
+    padding: 16px;
+}
+
+.playing-sec{
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 6%;
+    background-color: #ff5454;
+    border-top: 4px #fff solid;
+}
+
+.now-playing-div{
+    display: flex;
+    padding-bottom: 16px;
+    padding-top: 8px;
+}
+
+#song-img{
+    width: 136px;
+    height: 96px;
+    margin-right: 16px;
+}
+
+#song-name, #song-singer{
+    text-align: left;
+    color: #fff;
+    padding-bottom: 8px;
+}
+#btn-div{
+    display: flex;
+    font-size: small;
+    color: #ff5454;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.circle-btn{
+    background-color: #fff;
+    margin: 6px;
+    padding: 8px;
+    min-width: 28px;
+    border-radius: 50%;
+    cursor: pointer;
+    text-align: center;
+}
+
+#audio{
+    width: 304px;
+}
