@@ -25,9 +25,9 @@ div{
 }
 
 #list{
-    min-height: 320px;
+    min-height: 360px;
     padding-top: 16px;
-    margin-bottom: 280px;
+    margin-bottom: 320px;
 }
 
 h3, #list > li{
@@ -54,14 +54,14 @@ section{
 .playing-sec{
     position: fixed;
     bottom: 0;
-    padding-bottom: 6%;
+    padding-bottom: 4%;
     background-color: #ff5454;
     border-top: 4px #fff solid;
 }
 
 .now-playing-div{
     display: flex;
-    padding-bottom: 16px;
+    padding-bottom: 8px;
     padding-top: 8px;
 }
 
