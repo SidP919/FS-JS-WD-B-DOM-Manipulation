@@ -25,8 +25,9 @@ div{
 }
 
 #list{
-    min-height: 76vh;
+    min-height: 320px;
     padding-top: 16px;
+    margin-bottom: 280px;
 }
 
 h3, #list > li{
