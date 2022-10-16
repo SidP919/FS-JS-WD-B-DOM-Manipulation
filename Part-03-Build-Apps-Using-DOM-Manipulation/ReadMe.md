@@ -6,12 +6,12 @@
 > Build a Stopwatch app which starts by pressing the button start and stop by stop button also there is a reset button.
 3. **Countdown App:** **[Live Link](https://dom-apps.netlify.app/03-Countdown/)**
 > Build a countdown app which takes the start position from the user and on reaching zero, the countdown stops.
-4. **Word Count App:**
+4. **Word Count App:** **[Live Link](https://dom-apps.netlify.app/04-WordCount/)**
 > Build a word count app which only calculates the number of characters given by the user.
-5. **Palindrome Checker Game:**
+5. **Palindrome Checker Game:** **[Live Link](https://dom-apps.netlify.app/05-Palindrome-Checker/)**
 > Users can enter text or numbers and check whether the entered value is palindrome or not by clicking on the check button.
 6. **Complete Form Validation:**
-> Create a simple signup form with four input fields: username, email, password, confirm password and when you click the sign up without filling anything or incorrect data, the form will show an error message. To validate the password you can use RegEx. 
+> Create a simple signup form with four input fields: username, email, password, confirm password and when you click the sign up without filling anything or incorrect data, the form will show an error message. To validate the password you can use RegEx.
 7. **To-do App:**
 > Build a simple To-Do app which adds tasks, edit the tasks and also delete the tasks.
 8. **Colour game:**
@@ -22,7 +22,7 @@
 > Creates an Expense tracker app in which users can track expenses incurred by them.
 11. **Info/ Memory Card Game:**
 > When you click on a picture, it flips over and shows the image. You are handed a collection of cards with graphics on the back that are turned. A victory for you would be if you clicked on two identical photos.
-12. **Music Player:**
+12. **Music Player:** **[Live Link](https://dom-apps.netlify.app/06-MusicPlayer/)**
 > Build a music player app which has some features like play, pause, Volume-up, volume-down, previous, next button.
 13. **Video player:**
 > Create a video player App using JavaScript.
