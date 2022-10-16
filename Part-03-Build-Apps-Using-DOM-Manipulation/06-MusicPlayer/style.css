@@ -10,7 +10,7 @@ body{
     /* height: 100vh; */
     background-color: #ff5454;
     padding: 16px;
-    padding-top: 168px;
+    padding-top: 140px;
 }
 
 #title{
@@ -26,7 +26,6 @@ div{
 
 #list{
     min-height: 360px;
-    padding-top: 16px;
     margin-bottom: 320px;
 }
 
@@ -41,7 +40,7 @@ h3, #list > li{
 .heading{
     position: fixed;
     top: 0;
-    padding-top: 72px;
+    padding-top: 28px;
     min-width: 448px;
     border-bottom: 4px #fff solid;
     background-color: #ff5454;
