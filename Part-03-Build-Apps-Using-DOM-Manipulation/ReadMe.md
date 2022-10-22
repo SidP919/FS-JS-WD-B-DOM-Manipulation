@@ -10,10 +10,10 @@
 > Build a word count app which only calculates the number of characters given by the user.
 5. **Palindrome Checker Game:** **[Live Link](https://dom-apps.netlify.app/05-Palindrome-Checker/)**
 > Users can enter text or numbers and check whether the entered value is palindrome or not by clicking on the check button.
-6. **Complete Form Validation:**
-> Create a simple signup form with four input fields: username, email, password, confirm password and when you click the sign up without filling anything or incorrect data, the form will show an error message. To validate the password you can use RegEx.
-7. **To-do App:**
-> Build a simple To-Do app which adds tasks, edit the tasks and also delete the tasks.
+6. **Music Player:** **[Live Link](https://dom-apps.netlify.app/06-MusicPlayer/)**
+> Build a music player app which has some features like play, pause, Volume-up, volume-down, previous, next button.
+7. **Random Quote Generator:** **[Live Link](https://dom-apps.netlify.app/07-Random-Quote-Generator/)**
+> Build a Quote generator app on each refresh that gives us different quotes.
 8. **Colour game:**
 > It's a colour predicting game in which you have to predict the colours resulting from the combination of primary colours.
 9. **Typing Game:**
@@ -22,16 +22,16 @@
 > Creates an Expense tracker app in which users can track expenses incurred by them.
 11. **Info/ Memory Card Game:**
 > When you click on a picture, it flips over and shows the image. You are handed a collection of cards with graphics on the back that are turned. A victory for you would be if you clicked on two identical photos.
-12. **Music Player:** **[Live Link](https://dom-apps.netlify.app/06-MusicPlayer/)**
-> Build a music player app which has some features like play, pause, Volume-up, volume-down, previous, next button.
+12. **Complete Form Validation:**
+> Create a simple signup form with four input fields: username, email, password, confirm password and when you click the sign up without filling anything or incorrect data, the form will show an error message. To validate the password you can use RegEx.
 13. **Video player:**
 > Create a video player App using JavaScript.
 14. **Drum kit:**
 > Build a drum kit app in which players can make a corresponding drum noise by pressing each key.
 15. **Bookmark App:**
 > Create a bookmark app which helps us to store different website links using local storage. There is a section where we find all the saved bookmarks.
-16. **Random Quote Generator:**
-> Build a Quote generator app on each refresh that gives us different quotes.
+16. **To-do App:**
+> Build a simple To-Do app which adds tasks, edit the tasks and also delete the tasks.
 17. **Cart App:** 
 > Build a shopping cart app on each new product select, it will add in the cart section. Users can modify the item count and price will update automatically.
 18. **Filter app:**
