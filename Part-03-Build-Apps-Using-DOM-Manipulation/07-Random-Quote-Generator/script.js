@@ -1,9 +1,10 @@
 let quoteElement = document.querySelector("#quote");
 let authorElement = document.querySelector("#quote-author");
-let quoteBtn = document.querySelector("#generate");
 
+// let quoteBtn = document.querySelector("#generate");
 // quoteBtn.addEventListener("click", );
 
+//below IIFE(Immediately Invoked Function Expression) will get executed on every reload/refresh:-
 (
     async () => {
     
