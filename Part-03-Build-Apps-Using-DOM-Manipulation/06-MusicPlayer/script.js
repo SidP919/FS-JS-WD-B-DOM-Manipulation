@@ -16,8 +16,8 @@ let playlistArr = [
     {
         songName:"Madari",
         songSingers:"Vishal Dadlani & Sonu Kakkar",
-        songSrc:"https://dns4.vippendu.com/download/128k-nqmb/Madari.mp3",
-        songImg:"https://dns2.vippendu.com/thumbmed/1148058.jpg"
+        songSrc:"https://dns4.pendusaab.com/download/128k-dsjqc/Madari.mp3",
+        songImg:"https://musicreprise.com/media/2012/09/Coke-Studio@MTV-Season-2-660x330__1379157858_115.240.92.156.jpg"
     },
     {
         songName:"Ae Dil Hai Mushkil",
@@ -28,8 +28,8 @@ let playlistArr = [
     {
         songName:"Night changes",
         songSingers:"One Direction",
-        songSrc:"https://hindimp3s.in/files/download/id/3679",
-        songImg:"https://a10.gaanacdn.com/images/albums/45/276445/crop_480x480_276445.jpg"
+        songSrc:"https://pagaliworld.com/files/download/id/6024",
+        songImg:"https://upload.wikimedia.org/wikipedia/en/d/d1/One_Direction_-_Night_Changes_Single_Cover.png"
     },
     {
         songName:"No Competition",
