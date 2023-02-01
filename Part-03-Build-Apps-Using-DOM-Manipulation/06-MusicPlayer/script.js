@@ -28,7 +28,7 @@ let playlistArr = [
     {
         songName:"Night changes",
         songSingers:"One Direction",
-        songSrc:"https://pagaliworld.com/files/download/id/6024",
+        songSrc:"https://jesusful.com/wp-content/uploads/music/2022/06/Harry_Styles_-_Night_Changes_(Jesusful.com).mp3",
         songImg:"https://upload.wikimedia.org/wikipedia/en/d/d1/One_Direction_-_Night_Changes_Single_Cover.png"
     },
     {
