@@ -49,8 +49,8 @@
 - For a complete list of apps, their code and live links which we have build so far and the problem statements of all the apps to be build, please check [here](https://github.com/SidP919/FS-JS-WD-B-DOM-Manipulation/tree/Main/Part-03-Build-Apps-Using-DOM-Manipulation)
 
 - **Below are the live links of 7 apps built so far in Part-03**
-    1. **Calculator App -** **[Live Link](https://common-utility-apps.vercel.app/01-calculator/index.html)**
-    2. **Stopwatch App -** **[Live Link](https://common-utility-apps.vercel.app/02-stopwatch/index.html)**
+    1. **Calculator App -** **[Live Link](https://common-utility-apps.vercel.app/01-Calculator/index.html)**
+    2. **Stopwatch App -** **[Live Link](https://common-utility-apps.vercel.app/02-StopWatch/index.html)**
     3. **Countdown App -** **[Live Link](https://common-utility-apps.vercel.app/03-Countdown/index.html)**
     4. **Word Count App -** **[Live Link](https://common-utility-apps.vercel.app/04-WordCount/index.html)**
     5. **Palindrome Checker Game -** **[Live Link](https://common-utility-apps.vercel.app/05-Palindrome-Checker/index.html)**
