@@ -34,7 +34,7 @@
 
 - In this part, we will get code of 16 partially-build apps, and we will need to make changes in the javascript files( FileName ending with `.js`) inside each app's folder, to make each app work properly and same as it is shown in the image inside the **Image** folder inside each app's folder.
 
-- You can find all the mini apps built under Part-02 in action at this live link - [https://dom-assignments.netlify.app](https://dom-assignments.netlify.app)
+- You can find all the mini apps built under Part-02 in action at this live link - [https://common-utility-apps-01.vercel.app/](https://common-utility-apps-01.vercel.app/)
 
 - You can find folders of all apps and their code in [here](https://github.com/SidP919/FS-JS-WD-B-DOM-Manipulation/tree/Main/Part-02-Complete-DOM-Assignments)
 
@@ -44,18 +44,18 @@
 ![Part-03](./Part-03-Build-Apps-Using-DOM-Manipulation/thumbnail.png)
 - In this part, we won't get any resources or partially-completed code for the apps. We will only have a problem statement for each app to be build and we will need to build them from scratch.
 
-- You can check all the apps built so far in one place, at this live link - [https://dom-apps.netlify.app](https://dom-apps.netlify.app)
+- You can check all the apps built so far in one place, at this live link - [https://common-utility-apps.vercel.app/](https://common-utility-apps.vercel.app/)
 
 - For a complete list of apps, their code and live links which we have build so far and the problem statements of all the apps to be build, please check [here](https://github.com/SidP919/FS-JS-WD-B-DOM-Manipulation/tree/Main/Part-03-Build-Apps-Using-DOM-Manipulation)
 
 - **Below are the live links of 7 apps built so far in Part-03**
-    1. **Calculator App -** **[Live Link](https://dom-apps.netlify.app/01-calculator/)**
-    2. **Stopwatch App -** **[Live Link](https://dom-apps.netlify.app/02-stopwatch/)**
-    3. **Countdown App -** **[Live Link](https://dom-apps.netlify.app/03-Countdown/)**
-    4. **Word Count App -** **[Live Link](https://dom-apps.netlify.app/04-WordCount/)**
-    5. **Palindrome Checker Game -** **[Live Link](https://dom-apps.netlify.app/05-Palindrome-Checker/)**
-    6. **Music Player -** **[Live Link](https://dom-apps.netlify.app/06-MusicPlayer/)**
-    7. **Random Quote Generator -** **[Live Link](https://dom-apps.netlify.app/07-Random-Quote-Generator/)**
+    1. **Calculator App -** **[Live Link](https://common-utility-apps.vercel.app/01-calculator/index.html)**
+    2. **Stopwatch App -** **[Live Link](https://common-utility-apps.vercel.app/02-stopwatch/index.html)**
+    3. **Countdown App -** **[Live Link](https://common-utility-apps.vercel.app/03-Countdown/index.html)**
+    4. **Word Count App -** **[Live Link](https://common-utility-apps.vercel.app/04-WordCount/index.html)**
+    5. **Palindrome Checker Game -** **[Live Link](https://common-utility-apps.vercel.app/05-Palindrome-Checker/index.html)**
+    6. **Music Player -** **[Live Link](https://common-utility-apps.vercel.app/06-MusicPlayer/index.html)**
+    7. **Random Quote Generator -** **[Live Link](https://common-utility-apps.vercel.app/07-Random-Quote-Generator/index.html)**
 
 #
 
